@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "codeMateriel": "123",
+      "marque": "NB",
+      "dateDebutUtilisation": "2023-01-20",
+      "category": "Electronics",
+      "id": "6d32"
+    },
+    {
+      "codeMateriel": "789",
+      "marque": "Bosch",
+      "dateDebutUtilisation": "2022-11-05",
+      "category": "Appliances",
+      "id": "9e31"
+    },
+    {
+      "codeMateriel": "100",
+      "marque": "RT",
+      "dateDebutUtilisation": "2024-02-22",
+      "category": "Computers",
+      "id": "c2e7"
+    },
+    {
+      "codeMateriel": "090",
+      "marque": "Toyota",
+      "dateDebutUtilisation": "2020-09-30",
+      "category": "Automobiles",
+      "id": "b3b4"
+    },
+    {
+      "codeMateriel": 1234,
+      "marque": "Nike",
+      "dateDebutUtilisation": "2021-06-01",
+      "category": "Sporting Goods",
+      "id": "e925"
+    },
+    {
+      "id": "25b1",
+      "codeMateriel": "new",
+      "marque": "NB",
+      "dateDebutUtilisation": "2024-10-22",
+      "category": "ello"
+    }
+  ]
+}

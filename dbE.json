@@ -1,0 +1,67 @@
+{
+  "employes": [
+    {
+      "id": "2",
+      "nom": "Bernard",
+      "prenom": "Luc",
+      "departement": "Finance",
+      "post": "Analyste financier"
+    },
+    {
+      "id": "3",
+      "nom": "Dupont",
+      "prenom": "Marie",
+      "departement": "Ressources Humaines",
+      "post": "Responsable RH"
+    },
+    {
+      "id": "4",
+      "nom": "Leroy",
+      "prenom": "Paul",
+      "departement": "IT",
+      "post": "Développeur"
+    },
+    {
+      "id": "5",
+      "nom": "Moreau",
+      "prenom": "Emma",
+      "departement": "Ventes",
+      "post": "Commercial"
+    },
+    {
+      "id": "6",
+      "nom": "Garnier",
+      "prenom": "Pierre",
+      "departement": "Marketing",
+      "post": "Chargé de communication"
+    },
+    {
+      "id": "7",
+      "nom": "David",
+      "prenom": "Julie",
+      "departement": "Finance",
+      "post": "Contrôleur de gestion"
+    },
+    {
+      "id": "8",
+      "nom": "Nicolas",
+      "prenom": "Léa",
+      "departement": "IT",
+      "post": "Administrateur systèmes"
+    },
+    {
+      "id": "9",
+      "nom": "Rousseau",
+      "prenom": "Thomas",
+      "departement": "Ressources Humaines",
+      "post": "Recruteur"
+    },
+    {
+      "id": "10",
+      "nom": "Lemoine",
+      "prenom": "Alice",
+      "departement": "Ventes",
+      "post": "Directeur des ventes"
+    }
+  ]
+}
